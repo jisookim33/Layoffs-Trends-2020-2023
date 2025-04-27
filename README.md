@@ -40,5 +40,4 @@ To analyze global layoff data from 2020–2023 in order to identify patterns and
   - Companies like BritishVolt & Quibi raised $2B+, yet still failed
 
 ### Dashboard
-![Layoffs2022-2023_dashboard](https://github.com/user-attachments/assets/3eecb6ce-97d0-430b-9bd2-9030d015b511)
-
+![Layoffs2022-2023_dashboard](https://github.com/user-attachments/assets/4733b15f-1517-4c68-a36d-2bcac5aec748)
